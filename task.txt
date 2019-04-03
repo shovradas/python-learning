@@ -1,0 +1,13 @@
+Contact Application
+	- Add
+	- View
+	- Search	
+	- Edit
+	- Delete
+	- Clear
+
+Add
+	1. Where to save
+		- File (contacts.txt)
+	2. In which Format
+		- Bob 017636376401

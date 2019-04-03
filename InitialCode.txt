@@ -1,0 +1,14 @@
+# f = open('contacts.txt', 'r')
+# print(f.read())
+# f.close()
+
+name = input("Enter Name: ")
+number = input("Enter Number: ")
+
+f = open('contacts.txt', 'a')
+# f.write(name)
+# f.write(' ')
+# f.write(number)
+# f.write('\r\n')
+f.write('%s %s' % (name, number))
+f.close()
