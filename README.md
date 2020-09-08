@@ -1,2 +1,2 @@
-# python-learning
-Learning Python
+# python-selfdev
+Self development
